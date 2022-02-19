@@ -1,0 +1,196 @@
+l.p.|ulica|kod pocztowy|miasto|nazwa|aktywna|nr_jednostki|rodzaj jedostki
+1|ul. Ceramiczna 29|64-920|Piła|Baza Magazynowa KWP|1|32|1
+2|ul. Jana Kochanowskiego 3|60-844|Poznań|Budynek KWP|1|32|1
+3|ul. Wioślarska 70|61-136|Poznań|Komisariat Wodny|1|32|4
+4|ul. Kochanowskiego 2A|60-844|Poznań|KWP Poznań|1|32|1
+5|ul. Garncarska 11|62-800|Kalisz|Magazyny|1|32|1
+6|ul. Jana Kassyusza 14/2|60-549|Poznań|Mieszkanie służbowe|1|32|1
+7|ul. Taborowa 22|60-790|Poznań|Oddział Prewencji Policji|1|32|1
+8|ul. Dąbrowskiego 17a|60-838|Poznań|Pomieszczenia magazynowe KWP|1|32|1
+9|ul. Dąbrowskiego 17a|60-838|Poznań|Sekcja ds. Zamówień Publicznych KWP|1|32|1
+10|ul. Bukowska 286|60-189|Poznań|Sekcja lotnictwa|1|32|1
+11|ul. Dąborwksiego|60-838|Poznań|Wydz. Inwestycji i Remontów KWP|1|32|1
+12|ul. Dąbrowskiego 17a|60-838|Poznań|Wydz. Kadr i Szkolenia KWP|1|32|1
+13|ul. Podolańska 52|60-626|Poznań|Wydz. Transportu KWP|1|32|1
+14|ul.Wiosna Ludów 14|64-800|Chodzież|Komenda Powiatowa Policji|1|1|3
+15|ul. Kościelna 14|64-830|Margonin|Komisariat Policji|1|1|4
+16|ul. Dworcowa 28|64-840|Budzyń|Zespół Dzielnicowych|1|1|8
+17|ul. Marcinkowskiego 49|64-820|Szamocin|Zespół Dzielnicowych|1|1|8
+18|ul. Kościuszki 89|64-700|Czarnków|Komenda Powiatowa Policji|1|2|3
+19|ul. Sikorskiego 10|64-761|Krzyż Wielkopolski|Komisariat Policji|1|2|4
+20|ul. Roosevelta 10|64-980|Trzcianka|Komisariat Policji|1|2|4
+21|ul. Jana Pawła Ii Nr 16|64-730|Wieleń|Komisariat Policji|1|2|4
+22|ul. Chrobrego 37|64-720|Lubasz|Posterunek Policji|1|2|5
+23|ul. Jana Pawła Ii Nr 2|62-200|Gniezno|Komenda Powiatowa Policji|1|3|3
+24|Pl. Kpt. Pawła Cymsa 3|62-250|Czerniejewo|Komisariat Policji|1|3|4
+25|ul. Armii Poznań 3|62-270|Kłecko|Komisariat Policji|1|3|4
+26|ul. 22 Stycznia 4A|62-240|Trzemeszno|Komisariat Policji|1|3|4
+27|ul. Kosynierów Miłosławskich 14|62-230|Witkowo|Komisariat Policji|1|3|4
+28|ul. Wrocławska 44|63-800|Gostyń|Komenda Powiatowa Policji|1|4|3
+29|ul. Lisia Droga 1|63-810|Borek Wielkopolski|Posterunek Policji|1|4|5
+30|ul. Powstańców Wielkopolskich 32|63-840|Krobia|Posterunek Policji|1|4|5
+31|ul. Polna 1|64-125|Poniec|Posterunek Policji|1|4|5
+32|ul. St. Nadstawek 1C|63-830|Pępowo|Punkt Przyjęć Dzielnicowych|1|4|7
+33|ul. Rolna 1|63-860|Pogorzela|Punkt Przyjęć Dzielnicowych|1|4|7
+34|ul. Drzymały 13|62-065|Grodzisk Wielkopolski|Komenda Powiatowa Policji|1|5|3
+35|ul. Grodziska 16|62-067|Rakoniewice|Komisariat Policji|1|5|4
+36|ul. Lipowa 4|64-050|Wielichowo|Rewir Dzielnicowych|1|5|6
+37|Granowo, Poznańska 3|62-066|Granowo|Rewir Dzielnicowych|1|5|6
+38|ul. Bohaterów Jarocina 15|63-200|Jarocin|Komenda Powiatowa Policji|1|6|3
+39|ul. Mickiewicza 6|63-210|Żerków|Zespół Dzielnicowych|1|6|8
+40|ul. Poznańska 22|63-220|Kotlin|Zespół Dzielnicowych|1|6|8
+41|ul. Rynek 3|63-233|Jaraczewo|Zespół Dzielnicowych|1|6|8
+42|ul. Kordeckiego 36|62-800|Kalisz|Komenda Miejska Policji|1|7|2
+43|Pl.Wolności 15|62-840|Koźminek|Komisariat Policji|1|7|4
+44|ul. Zamkowa 5|62-820|Stawiszyn|Komisariat Policji|1|7|4
+45|ul. Poniatowskiego 1|62-860|Opatówek|Komisariat Policji|1|7|4
+46|ul. Ks. Blizińskiego 43|62-850|Lisków|Posterunek Policji|1|7|5
+47|Janków 101A|62-814|Blizanów|Posterunek Policji|1|7|5
+48|ul. Kordeckiego 6|62-872|Godziesze Wielkie|Posterunek Policji|1|7|5
+49|ul. 1000-Lecia 8|62-874|Zp Brzeziny|Posterunek Policji|1|7|5
+50|Chojęcin Szum 8A|63-600|Kępno|Komenda Powiatowa Policji|1|8|3
+51|ul. Kępińska 10|63-620|Trzcinica Z/S W Laskach|Posterunek Policji|1|8|5
+52|ul. Poznańska 7|63-645|Łęka Opatowska|Posterunek Policji|1|8|5
+53|ul. Namysłowska 12|63-640|Bralin|Posterunek Policji|1|8|5
+54|ul. Ogrodowa 2|63-604|Baranów|Punkt Przyjęć Dzielnicowych|1|8|7
+55|Perzów 78|63-642|Perzów|Punkt Przyjęć Dzielnicowych|1|8|7
+56|ul. Sienkiewicza 14|62-600|Koło|Komenda Powiatowa Policji|1|9|3
+57|ul. Tuwima 15|62-650|Kłodawa|Komisariat Policji|1|9|4
+58|ul. Poznańska 5A|62-620|Babiak|Posterunek Policji|1|9|5
+59|ul. Łęczycka 62|62-660|Dąbie|Posterunek Policji|1|9|5
+60|ul. Kolska 5|62-640|Grzegorzew|Zespół Dzielnicowych|1|9|8
+61|ul. Turecka 7/3|62-604|Kościelec|Zespół Dzielnicowych|1|9|8
+62|ul. Główna 1|62-613|Osiek Mały|Zespół Dzielnicowych|1|9|8
+63|ul. Przemysłowa 2|62-510|Konin|Komenda Miejska Policji|1|10|2
+64|ul. Kolejowa 11A|62-590|Golina|Komisariat Policji|1|10|4
+65|ul. Topolowa 1|62-571|Stare Miasto K/Konina|Komisariat Policji|1|10|4
+66|Pl. Kościuszki 7/2|62-540|Kleczew|Komisariat Policji|1|10|4
+67|ul. Sportowa 1A|62-570|Rychwał|Komisariat Policji|1|10|4
+68|ul. 11 Listopada 17|62-610|Sompolno|Komisariat Policji|1|10|4
+69|ul. Polna 1|62-561|Ślesin|Komisariat Policji|1|10|4
+70|ul. 1 Maja 3|62-530|Kazimierz Biskupi|Posterunek Policji|1|10|5
+71|ul. Surzyńskiego 31|64-000|Kościan|Komenda Powiatowa Policji|1|11|3
+72|ul. Kolejowa 7|64-020|Czempiń|Posterunek Policji|1|11|5
+73|ul. Gen. D. Chłapowskiego 34|64-010|Krzywiń|Posterunek Policji|1|11|5
+74|ul. Dworcowa 2|64-030|Śmigiel|Posterunek Policji|1|11|5
+75|ul. Zdunowska 38A|63-700|Krotoszyn|Komenda Powiatowa Policji|1|12|3
+76|ul. Stęszewskiego 1|63-720|Koźmin Wielkopolski|Komisariat Policji|1|12|4
+77|ul. Grunwaldzka 4|63-740|Kobylin|Posterunek Policji|1|12|5
+78|ul. Sienkiewicza 9|63-760|Zduny|Posterunek Policji|1|12|5
+79|ul. 17 Stycznia 8|64-100|Leszno|Komenda Miejska Policji|1|13|2
+80|ul. Korcza 3|64-100|Leszno|Komenda Miejska Policji|1|13|2
+81|ul. Dworcowa 16|64-140|Boszkowo|Posterunek Sezonowy|1|13|5
+82|ul. Spółdzielcza 20|64-120|Krzemieniewo|Rewir Dzielnicowych|1|13|6
+83|ul. Leszczyńska 5|64-111|Lipno|Rewir Dzielnicowych|1|13|6
+84|ul. Leszczyńska 5B|64-113|Osieczna|Rewir Dzielnicowych|1|13|6
+85|ul. Rzeczypospolitej 6A|64-130|Rydzyna|Rewir Dzielnicowych|1|13|6
+86|ul. Zalesie 9A|64-140|Włoszakowice|Rewir Dzielnicowych|1|13|6
+87|ul. Kilińskiego 2|64-100|Leszno|Rewir Dzielnicowych|1|13|6
+88|Al. Konstytucji 3 Maja Nr 7|64-100|Leszno|Rewir Dzielnicowych|1|13|6
+89|ul. Jeziorna 3|64-150|Wijewo|Zespół Dzielnicowych|1|13|8
+90|ul. Strzelecka 6|64-115|Święciechowa|Zespół Dzielnicowych|1|13|8
+91|ul. Sikorskiego 22A|64-400|Międzychód|Komenda Powiatowa Policji|1|14|3
+92|ul. 8 Stycznia 16|64-410|Sieraków|Komisariat Policji|1|14|4
+93|ul. Jeziorna 16|64-412|Chrzypsko Wielkie|Rewir Dzielnicowych|1|14|6
+94|ul. Tysiąclecia 3A|64-300|Nowy Tomyśl|Komenda Powiatowa Policji|1|15|3
+95|ul. 17 Stycznia 60|64-360|Zbąszyn|Komisariat Policji|1|15|4
+96|ul. Zamkowa 2|64-330|Opalenica|Komisariat Policji|1|15|4
+97|ul. Kasztanowa 24|64-310|Lwówek|Posterunek Policji|1|15|5
+98|ul. Poznańska 36|64-361|Miedzichowo|Posterunek Policji|1|15|5
+99|ul. Powstańców Wielkopolskich 17|64-316|Kuślin|Posterunek Policji|1|15|5
+100|ul. Piłsudskiego 54|64-600|Oborniki|Komenda Powiatowa Policji|1|16|3
+101|ul. Krzyżaniaka 4|64-610|Rogoźno|Komisariat Policji|1|16|4
+102|ul. Marcinkowskiego 13|64-630|Ryczywół|Rewir Dzielnicowych|1|16|6
+103|ul. Odolanowska 19|63-400|Ostrów Wielkopolski|Komenda Powiatowa Policji|1|17|3
+104|ul. Kaliska 29|63-460|Nowe Skalmierzyce|Komisariat Policji|1|17|4
+105|ul. Sójki 10|63-430|Odolanów|Komisariat Policji|1|17|4
+106|ul. Ostrowska 26|63-440|Raszków|Komisariat Policji|1|17|4
+107|ul. Ostrowska 94|63-405|Sieroszewice|Posterunek Policji|1|17|5
+108|ul. Kasztanowa 1|63-421|Przygodzice|Posterunek Policji|1|17|5
+109|ul. Wielkopolska 47|63-435|Sośnie|Posterunek Policji|1|17|5
+110|ul. Zamkowa 27|63-500|Ostrzeszów|Komenda Powiatowa Policji|1|18|3
+111|ul. Kolejowa 5D|63-520|Grabów N/Prosną|Komisariat Policji|1|18|4
+112|ul. Słowackiego 6|63-510|Mikstat|Punkt Przyjęć Dzielnicowych|1|18|7
+113|ul. Wieluńska 53|63-522|Kraszewice|Punkt Przyjęć Dzielnicowych|1|18|7
+114|ul. Wiosny Ludów 2|63-507|Kobyla Góra|Punkt Przyjęć Dzielnicowych|1|18|7
+115|ul. Bydgoska 115|64-920|Piła|Komenda Powiatowa Policji|1|19|3
+116|ul. Kościuszki 17|89-300|Wyrzysk|Komisariat Policji|1|19|4
+117|ul. Staszica 8|64-850|Ujście|Posterunek Policji|1|19|5
+118|Szydłowo 52|64-930|Szydłowo|Posterunek Policji|1|19|5
+119|ul. Lipowa 6|89-340|Białośliwie|Posterunek Policji|1|19|5
+120|ul. Wyrzyska 18|89-310|Łobżenica|Posterunek Policji|1|19|5
+121|ul. Kościelna 16/2|89-320|Wysoka|Posterunek Policji|1|19|5
+122|ul. Jana Pawła Ii Nr 28|64-810|Kaczory|Posterunek Policji|1|19|5
+123|ul. Kochanowskiego 6|63-300|Pleszew|Komenda Powiatowa Policji|1|20|3
+124|ul. Lipowa 3|63-322|Gołuchów|Posterunek Policji|1|20|5
+125|ul. Pleszewska 53|63-313|Chocz|Posterunek Policji|1|20|5
+126|ul. Cmentarna 3|63-330|Dobrzyca|Posterunek Policji|1|20|5
+127|ul. Szylinga 2|60-787|Poznań|Komenda Miejska Policji|1|21|2
+128|Al. Marcinkowskiego 31|61-745|Poznań - Stare Miasto|Komisariat Policji|1|21|4
+129|ul. Wagnera 14|64-320|Buk|Komisariat Policji|1|21|4
+130|ul. Leśna 3|62-004|Czerwonak|Komisariat Policji|1|21|4
+131|ul. Stawna 3|62-052|Komorniki|Komisariat Policji|1|21|4
+132|ul. Półwiejska 1|62-025|Kostrzyn Wielkopolski|Komisariat Policji|1|21|4
+133|ul. Poznańska 66|62-035|Kórnik|Komisariat Policji|1|21|4
+134|ul. Powstańców Wielkopolskich 42|62-031|Luboń|Komisariat Policji|1|21|4
+135|ul. Kolejowa 13A|62-050|Mosina|Komisariat Policji|1|21|4
+136|ul. Mostowa 6|62-095|Murowana Goślina|Komisariat Policji|1|21|4
+137|ul. Tysiąclecia 9|62-010|Pobiedziska|Komisariat Policji|1|21|4
+138|ul. Poznańska 74|62-040|Puszczykowo|Komisariat Policji|1|21|4
+139|ul. Poznańska 19|62-060|Stęszew|Komisariat Policji|1|21|4
+140|ul. Poziomkowa 5|62-002|Suchy Las|Komisariat Policji|1|21|4
+141|ul. Grudzińskiego 30A|62-020|Swarzędz|Komisariat Policji|1|21|4
+142|ul. 23 Października 29|62-080|Tarnowo Podgórne|Komisariat Policji|1|21|4
+143|ul. Łąkowa 1|62-070|Dopiewo|Komisariat Policji|1|21|4
+144|ul. Rolna 20|62-090|Rokietnica|Komisariat Policji|1|21|4
+145|ul. Rycerska 2A,|60-346|Poznań - Grunwald|Komisariat Policji - Grunwald|1|21|4
+146|ul. Kochanowskiego 16|60-846|Poznań - Jeżyce|Komisariat Policji - Jeżyce|1|21|4
+147|ul. Polanka 24|61-131|Poznań - Nowe Miasto|Komisariat Policji - Nowe Miasto|1|21|4
+148|Os. Jana III Sobieskiego 115|61-686|Poznań - Północ|Komisariat Policji - Północ|1|21|4
+149|ul. Chłapowskiego 12|61-504|Poznań - Wilda|Komisariat Policji - Wilda|1|21|4
+150|ul. Sportowa 3|63-005|Kleszczewo|Komisariat Policji|1|21|4
+151|ul. Parkowa 3|62-090|Ogniwo Konne Żydowo|Ogniwo Prewencji Policji|1|21|7
+152|ul. Bukowska 285|60-189|Poznań|Referat Ds. Zabezpieczenia Lotniska I Ochrony Placówek Dyplomatycznych Wydziału Prewencji Poznań - Jeżyce|1|21|10
+153|ul. Budowlanych 1|62-081|Baranowo|Rewir Dzielnicowych|1|21|6
+154|ul. Sienkiewicza 23|63-900|Rawicz|Komenda Powiatowa Policji|1|22|3
+155|ul. Dworcowa 25|63-940|Bojanowo|Rewir Dzielnicowych|1|22|6
+156|ul. Kobylińska 12|63-910|Miejska Górka|Rewir Dzielnicowych|1|22|6
+157|ul. 22 Stycznia 30|63-920|Pakosław|Rewir Dzielnicowych|1|22|6
+158|ul. Mickiewicza|63-930|Jutrosin|Rewir Dzielnicowych|1|22|6
+159|ul. Poznańska 13|62-400|Słupca|Komenda Powiatowa Policji|1|23|3
+160|ul. Kościuszki 6|62-436|Orchowo|Posterunek Policji|1|23|5
+161|Al. Wyszyńskiego 6|62-420|Strzałkowo|Posterunek Policji|1|23|5
+162|ul. Rzeczna 8|62-410|Zagórów|Posterunek Policji|1|23|5
+163|ul. Polna 3|64-500|Szamotuły|Komenda Powiatowa Policji|1|26|3
+164|ul. Konińska 31|62-045|Pniewy|Komisariat Policji|1|26|4
+165|ul. Dworcowa 11|64-510|Wronki|Komisariat Policji|1|26|4
+166|ul. Lipowa 5A|64-550|Duszniki|Posterunek Policji|1|26|5
+167|ul. Prusa 7|64-520|Obrzycko|Rewir Dzielnicowych|1|26|6
+168|ul. Szamotulska 20B|64-530|Kaźmierz|Rewir Dzielnicowych|1|26|6
+169|ul. Mickiewicza 15|63-100|Śrem|Komenda Powiatowa Policji|1|24|3
+170|ul. Wichury 11A|63-130|Książ Wielkopolski|Rewir Dzielnicowych|1|24|6
+171|ul. Harcerska 22|63-000|Środa Wielkopolska|Komenda Powiatowa Policji|1|25|3
+172|ul. Łąkowa 2|63-040|Nowe Miasto N/Wartą|Posterunek Policji|1|25|5
+173|ul. Sienkiewicza 1|63-020|Zaniemyśl|Zespół Dzielnicowych|1|25|8
+174|ul. Legionów Polskich 3|62-700|Turek|Komenda Powiatowa Policji|1|27|3
+175|ul. Dekerta 29|62-730|Dobra|Komisariat Policji|1|27|4
+176|ul. Zaremby 4|62-740|Tuliszków|Komisariat Policji|1|27|4
+177|ul. Taszarowo 11|62-100|Wągrowiec|Komenda Powiatowa Policji|1|28|3
+178|ul. Kazimierza Wielkiego 15|62-085|Skoki|Komisariat Policji|1|28|4
+179|ul. Klasztorna 6|62-130|Gołańcz|Posterunek Policji|1|28|5
+180|ul. Kcyńska 22|62-110|Damasławek|Posterunek Policji|1|28|5
+181|ul. Janowiecka 2|62-290|Mieścisko|Zespół Dzielnicowych|1|28|8
+182|ul. Dworcowa 1|64-200|Wolsztyn|Komenda Powiatowa Policji|1|29|3
+183|ul. Jagiellońska 14|64-234|Przemęt|Posterunek Policji|1|29|5
+184|ul. Zbąszyńska 23|64-212|Siedlec|Posterunek Policji|1|29|5
+185|ul. Szkolna 23|62-300|Września|Komenda Powiatowa Policji|1|30|3
+186|ul. Pałczyńska 3|62-320|Miłosław|Posterunek Policji|1|30|5
+187|ul. Niepodległości 56|62-310|Pyzdry|Posterunek Policji|1|30|5
+188|Pl. Reymonta 1|62-306|Kołaczkowo|Posterunek Policji|1|30|5
+189|ul. Dworcowa 8|62-330|Nekla|Posterunek Policji|1|30|5
+190|Al. Piasta 49|77-400|Złotów|Komenda Powiatowa Policji|1|31|3
+191|ul. 1 Maja 13|64-915|Jastrowie|Komisariat Policji|1|31|4
+192|ul. Domańskiego 9|77-430|Krajenka|Komisariat Policji|1|31|4
+193|ul. Lipowa 44A|64-965|Okonek|Komisariat Policji|1|31|4
+194|ul. Kościuszki 16|77-420|Lipka|Posterunek Policji|1|31|5
+195|ul. Szczepańskiego 1|77-424|Zakrzewo|Punkt Przyjęć Dzielnicowych|1|31|7

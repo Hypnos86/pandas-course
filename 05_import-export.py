@@ -26,4 +26,5 @@ close_price.to_json('./data/close.json')
 cpd = close_price.to_dict()
  
  # %% Wycinanie ze schowka do Data frame
-clipboard =_df = pd.read_clipboard()
+clipboard = pd.read_clipboard()
+
